@@ -40,13 +40,13 @@ Certaines fonctions natives de Python n'ont pas été utilisé dans les correcti
 | [Sujet 28](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2028/22-NSI-28.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2028/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 29](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2029/22-NSI-29.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2029/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 30](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2030/22-NSI-30.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 31](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2031/22-NSI-31.pdf) | Bientôt Disponible | Bientôt Disponible |
+| [Sujet 31](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2031/22-NSI-31.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2031/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 32](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2032/22-NSI-32.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2032/correction_exo_1.py) | Bientôt Disponible |
-| [Sujet 33](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2033/22-NSI-33.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 34](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2034/22-NSI-34.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 35](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2035/22-NSI-35.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 36](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2036/22-NSI-36.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 37](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2037/22-NSI-37.pdf) | Bientôt Disponible | Bientôt Disponible |
+| [Sujet 33](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2033/22-NSI-33.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2033/correction_exo_1.py) | Bientôt Disponible |
+| [Sujet 34](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2034/22-NSI-34.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2034/correction_exo_1.py) | Bientôt Disponible |
+| [Sujet 35](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2035/22-NSI-35.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2035/correction_exo_1.py) | Bientôt Disponible |
+| [Sujet 36](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2036/22-NSI-36.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2036/correction_exo_1.py) | Bientôt Disponible |
+| [Sujet 37](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2037/22-NSI-37.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2037/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 38](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2038/22-NSI-38.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 39](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2039/22-NSI-39.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 40](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2040/22-NSI-40.pdf) | Bientôt Disponible | Bientôt Disponible |
+| [Sujet 39](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2039/22-NSI-39.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2039/correction_exo_1.py) | Bientôt Disponible |
+| [Sujet 40](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2040/22-NSI-40.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2040/correction_exo_1.py) | Bientôt Disponible |
