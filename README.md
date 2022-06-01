@@ -27,7 +27,7 @@ Certaines fonctions natives de Python n'ont pas été utilisé dans les correcti
 | [Sujet 15](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2015/22-NSI-15.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2015/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 16](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2016/22-NSI-16.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2016/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 17](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2017/22-NSI-17.pdf) | Bientôt Disponible | Bientôt Disponible |
-| [Sujet 18](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2018/22-NSI-18.pdf) | Bientôt Disponible | Bientôt Disponible |
+| [Sujet 18](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2018/22-NSI-18.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2018/correction_exo_1.py) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2018/correction_exo_2.py) |
 | [Sujet 19](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2019/22-NSI-19.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2019/correction_exo_1.py) | Bientôt Disponible |
 | [Sujet 20](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2020/22-NSI-20.pdf) | Bientôt Disponible | Bientôt Disponible |
 | [Sujet 21](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2021/22-NSI-21.pdf) | [Correction](https://github.com/a9ex/NSI-Pratique-2022/blob/master/Sujet%2021/correction_exo_1.py) | Bientôt Disponible |
