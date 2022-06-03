@@ -1,14 +1,13 @@
 # NSI Pratique 2022
 
-Sujets & Propostions de corrections des 40 sujets du Bac Pratique 2022 de NSI qui auront lieu début juin.  
-Ce repo sert pour les élèves de Terminales de 2022 afin de s'entraîner à l'avance et d'annales/sujets blancs pour les années suivantes
+Sujets & Propostions de corrections des 40 sujets du Bac Pratique 2022 de NSI qui ont eu lieu début juin.  
+Ce repo sert pour les élèves de Terminales de 2022 afin de s'entraîner à l'avance et d'annales/sujets blancs pour les années suivantes.
 
-Ayant fait cela rapidement, il est possible que les corrections contiennent des erreurs ou qu'il y ait une manière plus efficace de la faire, dans ce cas libre à vous de créer une PR !  
 Certaines fonctions natives de Python n'ont pas été utilisé dans les corrections, parce que ce n'est pas ce que l'observateur recherche.
 
 **Note :**
 Les épreuves pratiques de 2022 étant terminées, ce repository va être archivé.  
-Vous pouvez retrouver les corrections des autres sujets diverses sites comme [Pixees](https://pixees.fr/informatiquelycee/term/ep/)
+Vous pouvez retrouver les corrections des autres sujets sur diverses sites comme [Pixees](https://pixees.fr/informatiquelycee/term/ep/).
 
 ## Table des sujets
 
